@@ -1,4 +1,4 @@
-## Hi there 👋
+## Bem vindo ao CLube de Desenvolvimento de Jogos! 👋
 
 <!--
 
