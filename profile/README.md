@@ -1,4 +1,4 @@
-## Bem vindo ao CLube de Desenvolvimento de Jogos! 👋
+## Bem vindo ao Clube de Desenvolvimento de Jogos! 👋
 
 <!--
 
